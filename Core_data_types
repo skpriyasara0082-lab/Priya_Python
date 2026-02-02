@@ -1,0 +1,53 @@
+LIST
+Create a list with at least 5 elements.
+Access elements by index (positive & negative).
+Slice a list to get a sublist.
+Add an element using append().
+Insert an element at a specific position using insert().
+Extend a list with another list using extend().
+Remove an element using remove().
+Remove an element by index using pop().
+Find the index of an element using index().
+Count occurrences of an element using count().
+Sort a list in ascending and descending order.
+Reverse the list using reverse().
+TUPLE
+Create a tuple with at least 5 elements.
+Access elements by index (positive & negative).
+Slice a tuple to get a sub-tuple.
+Count occurrences of an element using count().
+Find the index of an element using index().
+Concatenate two tuples.
+Repeat a tuple multiple times.
+Convert a tuple to a list.
+Find the length of a tuple.
+Check if an element exists in a tuple.
+Nest tuples and access nested elements.
+Iterate through a tuple using a loop.
+SET
+Create a set with at least 5 elements.
+Add an element using add().
+Remove an element using remove() or discard().
+Clear all elements using clear().
+Find the union of two sets.
+Find the intersection of two sets.
+Find the difference of two sets.
+Find the symmetric difference of two sets.
+Check if a set is a subset of another set.
+Check if a set is a superset of another set.
+Copy a set using copy().
+Iterate through a set using a loop.
+
+DICTIONARY
+  Create a dictionary with at least 5 key-value pairs.
+  Access a value using a key.
+  Add a new key-value pair.
+  Update the value of an existing key.
+  Remove a key-value pair using pop().
+  Remove the last inserted item using popitem().
+  Get all keys using keys().
+  Get all values using values().
+  Get all key-value pairs using items().
+  Check if a key exists in the dictionary.
+  Iterate through keys, values, and items using loops.
+  Copy a dictionary using copy().
