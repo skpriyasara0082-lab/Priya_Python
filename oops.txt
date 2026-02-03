@@ -1,0 +1,33 @@
+*You are designing a school software. There is a Person class with name and age. Students and Teachers have additional details. How will you implement this using inheritance?
+*You have Vehicle class. Car and Bike are child classes. Cars have air conditioning feature, Bikes do not. How will you design this using inheritance?
+*A company has Employee as parent class. Manager, Developer, and Intern are child classes. Manager has bonus, Developer has programming language skill, Intern has duration. Show how inheritance can model this.
+*There is a Animal class with speak() method. Dog says “Bark”, Cat says “Meow”, Cow says “Moo”. Show how polymorphism allows you to call speak() on any animal object.
+*You have a function pay(amount, payment_mode). Payment modes can be CreditCard, DebitCard, UPI. Each mode has its own pay() implementation. How can you implement polymorphism here?
+*Write a function print_area(shape) which calculates area for Circle, Rectangle, Triangle objects. How does polymorphism simplify this?
+*You have a BankAccount class. Balance should not be directly modified. Users can deposit or withdraw money. How can you hide the balance variable?
+*A Student class stores marks. Marks cannot be negative or greater than 100. How can you implement this validation using encapsulation?
+*Employee salary should not be visible publicly. Only HR can update salary using a method. How do you hide the salary variable?
+*You have different shapes (Circle, Rectangle, Triangle). All shapes must implement draw() and area(). How do you design an abstract class to enforce this?
+*Account is an abstract class. Savings account and Current account calculate interest differently. How do you enforce this using abstraction?
+*All vehicles must have start_engine() method but implementation differs for Car, Bike, and Truck. How can abstraction help here?
+MIXED QUESTIONS
+*School Management System
+Design a system for a school:
+Person parent class → Student and Teacher child classes
+Students have marks, teachers have subjects
+Function get_details() behaves differently for Student and Teacher (Polymorphism)
+Marks are private (Encapsulation)
+Calculate grade using abstract method (Abstraction)
+*E-Commerce System
+Design classes for E-Commerce:
+Product parent class → Book, Electronics child classes
+Each product type has its own calculate_discount()
+Price should be private (Encapsulation)
+Checkout function can handle any product type (Polymorphism)
+*Banking System
+Bank has Account abstract class
+Child classes: SavingsAccount, CurrentAccount
+Implement deposit, withdraw, calculate_interest
+Balance is private
+calculate_interest() is abstract
+You can store different account types in a single list and call calculate_interest() (Polymorphism + Abstraction + Encapsulation + Inheritance)
