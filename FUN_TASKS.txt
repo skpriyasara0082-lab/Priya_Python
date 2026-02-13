@@ -1,0 +1,125 @@
+FUNCTION
+
+Create a function to check whether a number is prime.
+
+Function to find maximum of 3 numbers.
+
+Function to swap two numbers (without temp).
+
+Function to count vowels in a string.
+
+Function to check palindrome string.
+
+Function to calculate simple interest.
+
+Function to find factorial of a number.
+
+Function to return sum of even numbers in a list.
+
+Function to convert Celsius to Fahrenheit.
+
+Function to check Armstrong number.
+
+Function to remove duplicate elements from list.
+
+Function to find second largest number in list.
+
+Function to check perfect number.
+
+Function to generate n Fibonacci numbers.
+
+Function to calculate power (xⁿ) without using **.
+
+Function to count words in a sentence.
+
+Function to validate email format.
+
+Function to find LCM of two numbers.
+
+Function to find GCD of two numbers.
+
+Function to simulate bank deposit & withdrawal.
+
+LAMBDA FUN
+
+Lambda to find square of a number.
+
+Lambda to check even or odd.
+
+Lambda to find maximum of two numbers.
+
+Lambda to calculate cube.
+
+Lambda to check positive or negative.
+
+Lambda to add two numbers.
+
+Lambda to sort list of tuples by second value.
+
+Lambda with filter() to get even numbers.
+
+Lambda with filter() to get vowels from string.
+
+Lambda with map() to square list elements.
+
+Lambda with map() to convert lowercase to uppercase.
+
+Lambda with reduce() to find sum of list.
+
+Lambda with reduce() to find product of list.
+
+Lambda to check string length > 5.
+
+Lambda to find minimum in list.
+
+Lambda to sort dictionary by values.
+
+Lambda to calculate simple interest.
+
+Lambda to reverse a string.
+
+Lambda to check palindrome string.
+
+Lambda to find greatest of 3 numbers.
+
+RECURSION
+
+Recursive function to find sum of n numbers.
+
+Recursive function to find factorial.
+
+Recursive function to print numbers from 1 to n.
+
+Recursive function to print numbers from n to 1.
+
+Recursive function to find power (xⁿ).
+
+Recursive function to find GCD.
+
+Recursive function to find LCM.
+
+Recursive function to calculate sum of digits.
+
+Recursive function to reverse string.
+
+Recursive function to reverse number.
+
+Recursive function to check palindrome number.
+
+Recursive function to check palindrome string.
+
+Recursive function to find Fibonacci series.
+
+Recursive function to count digits in number.
+
+Recursive function to find maximum element in list.
+
+Recursive function to find minimum element in list.
+
+Recursive function to remove all spaces in string.
+
+Recursive function to count vowels in string.
+
+Recursive function to check prime number.
+
+Recursive function to calculate sum of list elements.
