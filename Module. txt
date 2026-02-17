@@ -1,0 +1,21 @@
+Create a module that performs basic arithmetic operations.
+add(a, b)
+subtract(a, b)
+multiply(a, b)
+divide(a, b)
+Convert temperature values between different units.
+celsius_to_fahrenheit(c)
+fahrenheit_to_celsius(f)
+celsius_to_kelvin(c)
+Calculate area of different shapes.
+circle_area(radius)
+rectangle_area(length, width)
+triangle_area(base, height)
+Simulate basic banking operations.
+create_account(name, balance)
+deposit(balance, amount)
+withdraw(balance, amount)
+Calculate student academic results.
+calculate_total(marks_list)
+calculate_average(marks_list)
+assign_grade(average)
